@@ -45,7 +45,7 @@ Together, these systems form the foundation of the Mark43 Public Safety Platform
 
 3. SLG (State and Local Government) Environment
 - Purpose: Tailored to meet the operational needs of state and local law enforcement agencies.
-- Compliance Level: Aligned with FedRAMP Low / SOC 2 controls, undergoing validation under FedRAMP 20x.
+- Compliance Level: Aligned with FedRAMP Low/Moderate / SOC 2 controls.
 - Cloud Infrastructure: Typically hosted in AWS Commercial Regions.
 
 ## :busts_in_silhouette: Contact
