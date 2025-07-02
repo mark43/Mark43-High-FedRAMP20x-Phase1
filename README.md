@@ -56,4 +56,4 @@ Together, these systems form the foundation of the Mark43 Public Safety Platform
   :email: [kelsey.mcmichael@mark43.com](mailto:kelsey.mcmichael@mark43.com)
 
 - **Security Team**:  
-  :email: [security@mark43.com](mailto:security@mark43.com)
+  :email: [DEPT-InformationSecurity@mark43.com](mailto:DEPT-InformationSecurity@mark43.com )
